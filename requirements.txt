@@ -1,0 +1,3 @@
+this is chat app
+type option
+colors
